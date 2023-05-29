@@ -18,7 +18,7 @@ def strToIntBool(s):
 
 def show_predict_page():
     st.title("Credit Card Fraud Detection")
-    st.subheader("""By Parth Maniar""")
+    st.subheader("""By Mohd Afzal""")
     
     st.write("""### Enter Information to Predict if the Transaction is Fraud or Not!""")
     
